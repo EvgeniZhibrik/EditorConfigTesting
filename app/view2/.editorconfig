@@ -8,7 +8,7 @@ tab_width = ignore
 end_of_line = ignore
 trim_trailing_whitespace = ignore
 
-[*.js]
+[**.js]
 indent_style = tab
 indent_size = 4
 tab_width = 4
