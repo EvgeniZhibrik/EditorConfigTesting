@@ -1,4 +1,4 @@
 var s = {
-  name: "ss",
-  soname: 'aaa'
+	name: "ss",
+	soname: 'aaa'
 };
