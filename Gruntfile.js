@@ -13,7 +13,7 @@ module.exports = function(grunt) {
             }
         },
         lintspaces: {
-            src: ['app/**/*.js'],
+            src: ['app/**/*.js','*.py'],
             options: {
                 editorconfig: '.editorconfig'
             },
